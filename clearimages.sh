@@ -1,0 +1,3 @@
+cd ./images/
+rm *
+cd ../
